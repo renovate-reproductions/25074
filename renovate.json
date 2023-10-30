@@ -6,7 +6,7 @@
   ],
   "packageRules": [
     {
-      "description": "Show that the category is detected by renovate",
+      "description": "Show that the category is detected by Renovate",
       "matchCategories": ["python"],
       "addLabels": ["manually-specified-category::python"]
     }
